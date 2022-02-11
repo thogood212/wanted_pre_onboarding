@@ -3,7 +3,7 @@ Apply for wanted_pre_onboarding program
 
 Data Scientist가 되길 희망하는 김태호 입니다.
 
-GIT URL : https://github.com/thogood212/wanted_pre_onboarding
+GIT URL : https://github.com/thogood212
 
 숏에세이 URL : https://blog.naver.com/wkdlzm56/222643250077
 
